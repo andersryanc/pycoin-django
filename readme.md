@@ -29,3 +29,9 @@ createdb pycoin
 cd PyCoin
 python manage.py migrate
 ```
+
+When your all done working with the project, you can exit out of the virtual environment with:
+
+```
+deactivate
+```
